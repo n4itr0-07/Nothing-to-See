@@ -1,6 +1,6 @@
-Wi-Fi Hacking Guide
+# Wi-Fi Hacking Guide
 
-Table of Contents
+### Table of Contents
 
 1. Introduction to Wi-Fi
 
