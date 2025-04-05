@@ -24,3 +24,10 @@ p2 = Person("Alex")
 # Each object holds its unique attribute
 p1.greet()  # Output: Hello, my name is Nerdy
 p2.greet()  # Output: Hello, my name is Alex
+```
+### Key Points:
+1. `self.name` binds the `name` value to the specific object.
+2. Each object created from the class can have its own unique data.
+3. Without `self`, the attributes wouldn't belong to the object—they'd just be local variables in the method.
+
+That's the essence of `self`! It ensures every object handles its own data.
